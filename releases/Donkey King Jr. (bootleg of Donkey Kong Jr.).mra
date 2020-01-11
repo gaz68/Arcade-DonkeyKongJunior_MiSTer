@@ -6,21 +6,21 @@
   <manufacturer>bootleg</manufacturer>
   <rbf>DonkeyKongJunior</rbf>
   <rom index="0" zip="dkongjr.zip" md5="3ea12f62eb1e806efcbf20ad728003d0" type="merged">
-    <part name="dkingjr/1.7g"/>
-    <part name="dkingjr/2.7h"/>
-    <part name="dkingjr/3.7k"/>
-    <part name="dkingjr/6.6e"/>
-    <part name="dkingjr/5.6g"/>
-    <part name="dkingjr/1.7g"/>
-    <part name="djr1-v_7c.7c"/>
-    <part name="djr1-v_7c.7c"/>
-    <part name="djr1-v_7d.7d"/>
-    <part name="djr1-v_7d.7d"/>
-    <part name="djr1-v_7e.7e"/>
-    <part name="djr1-v_7e.7e"/>
-    <part name="djr1-v_7f.7f"/>
-    <part name="djr1-v_7f.7f"/>
-    <part name="djr1-c_3h.3h"/>
+    <part crc="bd07bb8d" name="dkingjr/1.7g"/>
+    <part crc="01fbec11" name="dkingjr/2.7h"/>
+    <part crc="a81dd00c" name="dkingjr/3.7k"/>
+    <part crc="cefed15e" name="dkingjr/6.6e"/>
+    <part crc="cf14669d" name="dkingjr/5.6g"/>
+    <part crc="bd07bb8d" name="dkingjr/1.7g"/>
+    <part crc="dc7f4164" name="djr1-v_7c.7c"/>
+    <part crc="dc7f4164" name="djr1-v_7c.7c"/>
+    <part crc="0ce7dcf6" name="djr1-v_7d.7d"/>
+    <part crc="0ce7dcf6" name="djr1-v_7d.7d"/>
+    <part crc="24d1ff17" name="djr1-v_7e.7e"/>
+    <part crc="24d1ff17" name="djr1-v_7e.7e"/>
+    <part crc="0f8c083f" name="djr1-v_7f.7f"/>
+    <part crc="0f8c083f" name="djr1-v_7f.7f"/>
+    <part crc="715da5f8" name="djr1-c_3h.3h"/>
     <part>
 FF FC FA FF FF F0 FB F0 FF FC F0 F0 FF FC F0 F7 
 FF FC F0 F3 FF FC F4 F0 FF FC F4 F3 FF F7 F0 FA 
@@ -57,8 +57,8 @@ FF F1 F0 F9 FF F1 F0 F9 FF F1 F0 F9 FF F5 F0 F0
 FF F1 F9 F0 FF F5 F1 F0 FF FF F0 F0 FF F1 FE F0 
 FF F1 FE F0 FF FF FE F0 FF F1 F0 F0 FF F1 F0 F0
     </part>
-    <part name="djr1-v-2n.2n"/>
-    <part name="dkingjr/mb7051.8j"/>
+    <part crc="dbf185bf" name="djr1-v-2n.2n"/>
+    <part crc="a5a6f2ca" name="dkingjr/mb7051.8j"/>
     <part repeat="3296">00</part>
     <part>
 7D FC 16 FC 29 FB FA FC AB FB 64 42 92 42 09 04 
